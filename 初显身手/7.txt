@@ -1,0 +1,71 @@
+--. -.. --- - ...- --- .--. .-. . ...
+GDOTVOPRES
+
+Play
+
+Pause
+
+Stop
+
+Repeat
+
+Sound
+
+Light
+
+Configure
+
+Download
+
+Share
+Put your message on this bracelet
+Personalised Morse Code Bracelet - Red Jasper
+Shop Now
+Send your message to a friend
+Share the message above in Morse code (here is an example). The current sound, light and speed settings will be used. If they know Morse code you can hide the text.
+
+
+Text
+
+Share
+
+Facebook
+
+Twitter
+
+Reddit
+Text to Morse
+Just type letters, numbers and punctuation into the top box and the Morse code will appear in the bottom box with a "#" if the character cannot be translated. This is not a great tool for learning Morse code as looking at the dots and dashes does not help. Instead, try the CWops Morse Trainer.
+
+Morse to Text
+You can type Morse code into the top box using "." for a dot and "-" or "_" for a dash. Letters are separated by spaces and words by "/". The text translation will appear in the bottom box. If a letter cannot be translated a "#" will appear in the output.
+
+Sound, Light & Vibration
+The "Play", "Pause", "Stop" and "Repeat" buttons control the playback. You can choose between hearing the sound, seeing a flashing light, or having your phone vibrate using the "Sound", "Light" and "Vibrate" checkboxes. The vibrate option may only appear on a phone. The "Configure" button reveals advanced options to control the frequency and speed and switch between telegraph and radio sound styles. The flashing light and download buttons do not currently work when in "Telegraph" mode.
+
+Notes
+This tool works in most browsers: please see the FAQ if you are having problems.
+
+If you would like to see a list of all the Morse code characters please go to my Morse Code page. If you have any questions about Morse code or the translator, please read my FAQ first.
+
+Change log
+2022-03-04: adds the Cyrillic/Ukrainian, Hebrew and Arabic alphabets as options.
+2021-09-03: vibration (on phones) does not stop prematurely [thanks Richard].
+2021-09-02: vibration (on phones) now better synchronised with the sound.
+2021-03-04: accented characters added.
+2021-02-21: volume control added.
+See more
+I am a husband, father and foster carer
+
+a principal research engineer at the IT Innovation Centre
+
+a founder of SPYDERISK
+
+an owner of a holiday home, a salsa teacher
+
+and in my spare time I write and maintain this web site
+
+Morse Code World logo
+© Copyright Stephen C. Phillips, 2015-2022
+Licences │ Donate
+
